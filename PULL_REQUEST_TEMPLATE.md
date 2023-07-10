@@ -1,11 +1,14 @@
 <!-- 
+Thanks for opening this contribution! :clap:
 Please follow the instructions on your PRs title and description.
 aligned title description: '(feat|fix|chore|doc): _description of introduced change_'
-Info: all comments between /<!-- --/> will be marked as hidden via Markdown
+Info: <!- text -> comments will be hidden from the rendered view of your PR.
 -->
 
+
+
 ### Description
-<!-- Thanks for opening this contribution! :clap:
+<!-- 
 Some advices for your PR description:  
 - What does this PR introduce? 
 - Does it fix a bug? 
@@ -13,8 +16,7 @@ Some advices for your PR description:
 - Is it enhancing documentation?
 --> 
 
-<!-- Please tag the issue this PR is related to, if applicable. -->
-Fixes # 
+<!-- Please tag the issue Fixes/Updates #issue_number in this PR that's related to, if applicable. -->
 
 ### PR Pre-review checks you have done
 
