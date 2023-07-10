@@ -24,7 +24,11 @@ Please look our web-page
 
 Thanks for taking the time to create a [pull request]( ).
 
-
+Info-Links for your first PR:
+- Contact Us on the [mailing list]().
+- To request a review, check out [who's involved]() to see a list of contributors and committers
+- Check out our guide on [how to contribute]()
+- Check out the [Eclipse Foundation contribution guidelines]()
 
 
 ### Commit convention
