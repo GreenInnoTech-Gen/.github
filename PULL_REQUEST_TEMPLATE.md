@@ -1,13 +1,15 @@
----
-name: Pull Request Template
-about: 'template for PRs that ensures basic information is provided'
-title: '(feat|fix|chore|doc): _description of introduced change_'
----
+<!-- 
+Please follow the instructions on your PRs title and description.
+aligned title description: '(feat|fix|chore|doc): _description of introduced change_'
+-->
 
 ### Description
-<!-- Thanks for opening this contribution!  
-Some good advices for your PR description:  
-_What does this PR introduce? Does it fix a bug? Does it add a new feature? Is it enhancing documentation?_
+<!-- Thanks for opening this contribution! :clap:
+Some advices for your PR description:  
+- What does this PR introduce? 
+- Does it fix a bug? 
+- Does it add a new feature?
+- Is it enhancing documentation?
 --> 
 
 <!-- Please tag the issue this PR is related to, if applicable. -->
