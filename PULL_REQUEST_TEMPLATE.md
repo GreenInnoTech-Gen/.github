@@ -1,6 +1,7 @@
 <!-- 
 Please follow the instructions on your PRs title and description.
 aligned title description: '(feat|fix|chore|doc): _description of introduced change_'
+Info: all comments between /<!-- --/> will be marked as hidden via Markdown
 -->
 
 ### Description
