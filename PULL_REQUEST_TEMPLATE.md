@@ -2,8 +2,8 @@
 Many Thanks to you for opening this contribution! 
 Please follow the instructions on your PRs title and description.
 aligned title description: '(feat|fix|chore|doc): _description of introduced change_'
+Important: Contributing Guidelines can be found here: https://eclipse-tractusx.github.io/docs/oss/how-to-contribute
 Info: <!- text -> comments will be hidden from the rendered view of your PR.
-More information about Contributing can be found here: https://eclipse-tractusx.github.io/docs/oss/how-to-contribute
 -->
 
 ### Description
@@ -17,7 +17,7 @@ Please describe your PR:
 
 <!-- Please tag the related issue `Fixes or Updates #issue_number`, if applicable. -->
 
-### PR Pre-review checks you have done
+### Pre-review checks
 
 Please ensure to do as many of the following checks as possible, before asking for committer review:
 
