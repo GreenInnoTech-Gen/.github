@@ -1,15 +1,13 @@
 <!-- 
-Thanks for opening this contribution! :clap:
+Many Thanks to you for opening this contribution! 
 Please follow the instructions on your PRs title and description.
 aligned title description: '(feat|fix|chore|doc): _description of introduced change_'
 Info: <!- text -> comments will be hidden from the rendered view of your PR.
 -->
 
-
-
 ### Description
 <!-- 
-Some advices for your PR description:  
+Some advices how you can describe your PR:  
 - What does this PR introduce? 
 - Does it fix a bug? 
 - Does it add a new feature?
