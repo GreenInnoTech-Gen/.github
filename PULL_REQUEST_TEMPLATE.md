@@ -1,5 +1,5 @@
 <!-- 
-Many Thanks to you for opening this contribution! 
+Thanks for your contribution! 
 Please follow the instructions on your PRs title and description.
 aligned title description: '(feat|fix|chore|doc): _description of introduced change_'
 Important: Contributing Guidelines can be found here: https://eclipse-tractusx.github.io/docs/oss/how-to-contribute
