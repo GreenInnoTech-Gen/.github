@@ -21,5 +21,5 @@ Please describe your PR:
 
 Please ensure to do as many of the following checks as possible, before asking for committer review:
 
-- [ ] DEPENDENCIES are up to date. [Dash license tool](https://github.com/eclipse/dash-licenses). Committers can open IP issues for restricted libs.
+- [ ] DEPENDENCIES are up-to-date. [Dash license tool](https://github.com/eclipse/dash-licenses). Committers can open IP issues for restricted libs.
 - [ ] [Copyright and license header](https://eclipse-tractusx.github.io/docs/release/trg-7/trg-7-02) are present on all affected files
