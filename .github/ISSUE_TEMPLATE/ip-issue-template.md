@@ -19,12 +19,12 @@ You can found our 3rd-party IP GitLab Issue here:
 
 **Differences in your `DEPENDENCIES` file**
 
-| Information                 | Advisory                                                                  | Example                    |
-|-----------------------------|---------------------------------------------------------------------------|----------------------------|
-| ability to merge            | looks good, was already approved                                          | `approved, #3435`          |
-| non rejected                | also fine                                                                 | `approved, clearlydefined` |
-| restricted but issue number | ok, but please this **must** be tracked                                   | `restricted, #5922`        |
-| :x: restricted              | you don can't use this library/content please create a IP Issue on GitLab | `restricted`               |
+| Information                                    | Advisory                                                                  | Example                    |
+|------------------------------------------------|---------------------------------------------------------------------------|----------------------------|
+| :heavy_check_mark: ability to merge            | looks good, was already approved                                          | `approved, #3435`          |
+| :heavy_check_mark: non rejected                | also fine                                                                 | `approved, clearlydefined` |
+| :heavy_check_mark: restricted but issue number | ok, but please this **must** be tracked                                   | `restricted, #5922`        |
+| :x: restricted                                 | you don can't use this library/content please create a IP Issue on GitLab | `restricted`               |
 
 
 **Additional Info**
